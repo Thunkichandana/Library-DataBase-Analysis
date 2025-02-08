@@ -2,6 +2,8 @@ Objective: Library Database Analysis
 The objective of this project is to design and analyze a structured SQL database for a library system. It aims to efficiently manage book records, borrowers, and library branches by implementing relational 
 constraints, optimizing data retrieval, and ensuring seamless transactions. The project focuses on answering key queries related to book availability, borrower activity, and loan management, helping libraries streamline their operations and improve service efficiency.
 
+datasets : linkhttps://drive.google.com/drive/folders/1RKDHzjXndi6pLgB522QjGLkFl5mD-zkU
+
 ## Task Questions
 
 1.How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
